@@ -1,0 +1,184 @@
+﻿  Animation.cpp
+D:\C me\Cplus\Project1\Animation.cpp(14,34): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\C me\Cplus\Project1\Animation.cpp(14,34): warning C4244:         with
+D:\C me\Cplus\Project1\Animation.cpp(14,34): warning C4244:         [
+D:\C me\Cplus\Project1\Animation.cpp(14,34): warning C4244:             T=int
+D:\C me\Cplus\Project1\Animation.cpp(14,34): warning C4244:         ]
+D:\C me\Cplus\Project1\Animation.cpp(15,35): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\C me\Cplus\Project1\Animation.cpp(15,35): warning C4244:         with
+D:\C me\Cplus\Project1\Animation.cpp(15,35): warning C4244:         [
+D:\C me\Cplus\Project1\Animation.cpp(15,35): warning C4244:             T=int
+D:\C me\Cplus\Project1\Animation.cpp(15,35): warning C4244:         ]
+D:\C me\Cplus\Project1\Animation.cpp(21,34): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\C me\Cplus\Project1\Animation.cpp(21,34): warning C4244:         with
+D:\C me\Cplus\Project1\Animation.cpp(21,34): warning C4244:         [
+D:\C me\Cplus\Project1\Animation.cpp(21,34): warning C4244:             T=int
+D:\C me\Cplus\Project1\Animation.cpp(21,34): warning C4244:         ]
+  Bullet.cpp
+  Button.cpp
+  Colision.cpp
+D:\C me\Cplus\Project1\Animation.cpp(22,35): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\C me\Cplus\Project1\Animation.cpp(22,35): warning C4244:         with
+D:\C me\Cplus\Project1\Animation.cpp(22,35): warning C4244:         [
+D:\C me\Cplus\Project1\Animation.cpp(22,35): warning C4244:             T=int
+D:\C me\Cplus\Project1\Animation.cpp(22,35): warning C4244:         ]
+  DeadMenu.cpp
+  Enenmy.cpp
+D:\C me\Cplus\Project1\Colision.cpp(31,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\C me\Cplus\Project1\Enenmy.cpp(17,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\C me\Cplus\Project1\Enenmy.cpp(17,46): warning C4244:         with
+D:\C me\Cplus\Project1\Enenmy.cpp(17,46): warning C4244:         [
+D:\C me\Cplus\Project1\Enenmy.cpp(17,46): warning C4244:             T=float
+D:\C me\Cplus\Project1\Enenmy.cpp(17,46): warning C4244:         ]
+  Game.cpp
+D:\C me\Cplus\Project1\Enenmy.cpp(33,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\C me\Cplus\Project1\Enenmy.cpp(33,33): warning C4244:         with
+D:\C me\Cplus\Project1\Enenmy.cpp(33,33): warning C4244:         [
+D:\C me\Cplus\Project1\Enenmy.cpp(33,33): warning C4244:             T=float
+D:\C me\Cplus\Project1\Enenmy.cpp(33,33): warning C4244:         ]
+D:\C me\Cplus\Project1\GameState2.h(92,32): warning C4305: 'initializing': truncation from 'double' to 'const float'
+D:\C me\Cplus\Project1\GameState.h(103,32): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  GameState.cpp
+D:\C me\Cplus\Project1\Game.cpp(53,23): warning C4305: '=': truncation from 'double' to 'float'
+D:\C me\Cplus\Project1\GameState2.h(92,32): warning C4305: 'initializing': truncation from 'double' to 'const float'
+D:\C me\Cplus\Project1\GameState.h(103,32): warning C4305: 'initializing': truncation from 'double' to 'const float'
+D:\C me\Cplus\Project1\GameState.cpp(1224,55): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\C me\Cplus\Project1\GameState.cpp(1224,55): warning C4244:         with
+D:\C me\Cplus\Project1\GameState.cpp(1224,55): warning C4244:         [
+D:\C me\Cplus\Project1\GameState.cpp(1224,55): warning C4244:             T=int
+D:\C me\Cplus\Project1\GameState.cpp(1224,55): warning C4244:         ]
+D:\C me\Cplus\Project1\GameState.cpp(1225,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\C me\Cplus\Project1\GameState.cpp(1225,52): warning C4244:         with
+D:\C me\Cplus\Project1\GameState.cpp(1225,52): warning C4244:         [
+D:\C me\Cplus\Project1\GameState.cpp(1225,52): warning C4244:             T=int
+D:\C me\Cplus\Project1\GameState.cpp(1225,52): warning C4244:         ]
+D:\C me\Cplus\Project1\GameState.cpp(1227,51): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\C me\Cplus\Project1\GameState.cpp(1227,51): warning C4244:         with
+D:\C me\Cplus\Project1\GameState.cpp(1227,51): warning C4244:         [
+D:\C me\Cplus\Project1\GameState.cpp(1227,51): warning C4244:             T=int
+D:\C me\Cplus\Project1\GameState.cpp(1227,51): warning C4244:         ]
+D:\C me\Cplus\Project1\GameState.cpp(1228,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\C me\Cplus\Project1\GameState.cpp(1228,53): warning C4244:         with
+D:\C me\Cplus\Project1\GameState.cpp(1228,53): warning C4244:         [
+D:\C me\Cplus\Project1\GameState.cpp(1228,53): warning C4244:             T=int
+D:\C me\Cplus\Project1\GameState.cpp(1228,53): warning C4244:         ]
+D:\C me\Cplus\Project1\GameState.cpp(1229,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\C me\Cplus\Project1\GameState.cpp(1229,54): warning C4244:         with
+D:\C me\Cplus\Project1\GameState.cpp(1229,54): warning C4244:         [
+D:\C me\Cplus\Project1\GameState.cpp(1229,54): warning C4244:             T=int
+D:\C me\Cplus\Project1\GameState.cpp(1229,54): warning C4244:         ]
+D:\C me\Cplus\Project1\GameState.cpp(1230,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\C me\Cplus\Project1\GameState.cpp(1230,54): warning C4244:         with
+D:\C me\Cplus\Project1\GameState.cpp(1230,54): warning C4244:         [
+D:\C me\Cplus\Project1\GameState.cpp(1230,54): warning C4244:             T=int
+D:\C me\Cplus\Project1\GameState.cpp(1230,54): warning C4244:         ]
+D:\C me\Cplus\Project1\GameState.cpp(1332,23): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+D:\C me\Cplus\Project1\GameState.cpp(1332,23): warning C4244:         with
+D:\C me\Cplus\Project1\GameState.cpp(1332,23): warning C4244:         [
+D:\C me\Cplus\Project1\GameState.cpp(1332,23): warning C4244:             T=unsigned int
+D:\C me\Cplus\Project1\GameState.cpp(1332,23): warning C4244:         ]
+  HighscoreList.cpp
+D:\C me\Cplus\Project1\GameState.cpp(1333,24): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+D:\C me\Cplus\Project1\GameState.cpp(1333,24): warning C4244:         with
+D:\C me\Cplus\Project1\GameState.cpp(1333,24): warning C4244:         [
+D:\C me\Cplus\Project1\GameState.cpp(1333,24): warning C4244:             T=unsigned int
+D:\C me\Cplus\Project1\GameState.cpp(1333,24): warning C4244:         ]
+D:\C me\Cplus\Project1\HighscoreList.cpp(112,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  HighscoreManager.cpp
+  IOHighscore.cpp
+  main.cpp
+D:\C me\Cplus\Project1\HighscoreList.cpp(115,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C me\Cplus\Project1\GameState2.h(92,32): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  Menu.cpp
+D:\C me\Cplus\Project1\GameState.h(103,32): warning C4305: 'initializing': truncation from 'double' to 'const float'
+D:\C me\Cplus\Project1\GameState2.h(92,32): warning C4305: 'initializing': truncation from 'double' to 'const float'
+D:\C me\Cplus\Project1\GameState.h(103,32): warning C4305: 'initializing': truncation from 'double' to 'const float'
+D:\C me\Cplus\Project1\Menu.cpp(216,65): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+D:\C me\Cplus\Project1\Menu.cpp(216,65): warning C4244:         with
+D:\C me\Cplus\Project1\Menu.cpp(216,65): warning C4244:         [
+D:\C me\Cplus\Project1\Menu.cpp(216,65): warning C4244:             T=float
+D:\C me\Cplus\Project1\Menu.cpp(216,65): warning C4244:         ]
+  PauseMenu.cpp
+  Platform.cpp
+D:\C me\Cplus\Project1\Menu.cpp(216,47): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+D:\C me\Cplus\Project1\Menu.cpp(216,47): warning C4244:         with
+D:\C me\Cplus\Project1\Menu.cpp(216,47): warning C4244:         [
+D:\C me\Cplus\Project1\Menu.cpp(216,47): warning C4244:             T=float
+D:\C me\Cplus\Project1\Menu.cpp(216,47): warning C4244:         ]
+D:\C me\Cplus\Project1\Platform.cpp(10,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\C me\Cplus\Project1\Platform.cpp(10,51): warning C4244:         with
+D:\C me\Cplus\Project1\Platform.cpp(10,51): warning C4244:         [
+D:\C me\Cplus\Project1\Platform.cpp(10,51): warning C4244:             T=float
+D:\C me\Cplus\Project1\Platform.cpp(10,51): warning C4244:         ]
+D:\C me\Cplus\Project1\Platform.cpp(10,51): warning C4244:         and
+D:\C me\Cplus\Project1\Platform.cpp(10,51): warning C4244:         [
+D:\C me\Cplus\Project1\Platform.cpp(10,51): warning C4244:             T=int
+D:\C me\Cplus\Project1\Platform.cpp(10,51): warning C4244:         ]
+  Player.cpp
+  Collision.cpp
+D:\C me\Cplus\Project1\Platform.cpp(10,44): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\C me\Cplus\Project1\Platform.cpp(10,44): warning C4244:         with
+D:\C me\Cplus\Project1\Platform.cpp(10,44): warning C4244:         [
+D:\C me\Cplus\Project1\Platform.cpp(10,44): warning C4244:             T=float
+D:\C me\Cplus\Project1\Platform.cpp(10,44): warning C4244:         ]
+D:\C me\Cplus\Project1\Platform.cpp(10,44): warning C4244:         and
+D:\C me\Cplus\Project1\Platform.cpp(10,44): warning C4244:         [
+D:\C me\Cplus\Project1\Platform.cpp(10,44): warning C4244:             T=int
+D:\C me\Cplus\Project1\Platform.cpp(10,44): warning C4244:         ]
+D:\C me\Cplus\Project1\Collision.cpp(72,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\C me\Cplus\Project1\Collision.cpp(72,15): warning C4244:         with
+D:\C me\Cplus\Project1\Collision.cpp(72,15): warning C4244:         [
+D:\C me\Cplus\Project1\Collision.cpp(72,15): warning C4244:             T=float
+D:\C me\Cplus\Project1\Collision.cpp(72,15): warning C4244:         ]
+D:\C me\Cplus\Project1\Collision.cpp(73,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\C me\Cplus\Project1\Collision.cpp(73,16): warning C4244:         with
+D:\C me\Cplus\Project1\Collision.cpp(73,16): warning C4244:         [
+D:\C me\Cplus\Project1\Collision.cpp(73,16): warning C4244:             T=float
+D:\C me\Cplus\Project1\Collision.cpp(73,16): warning C4244:         ]
+D:\C me\Cplus\Project1\Collision.cpp(75,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C me\Cplus\Project1\Collision.cpp(75,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C me\Cplus\Project1\Collision.cpp(76,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C me\Cplus\Project1\Collision.cpp(76,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C me\Cplus\Project1\Collision.cpp(106,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\C me\Cplus\Project1\Collision.cpp(106,15): warning C4244:         with
+D:\C me\Cplus\Project1\Collision.cpp(106,15): warning C4244:         [
+D:\C me\Cplus\Project1\Collision.cpp(106,15): warning C4244:             T=float
+D:\C me\Cplus\Project1\Collision.cpp(106,15): warning C4244:         ]
+D:\C me\Cplus\Project1\Collision.cpp(107,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\C me\Cplus\Project1\Collision.cpp(107,16): warning C4244:         with
+D:\C me\Cplus\Project1\Collision.cpp(107,16): warning C4244:         [
+D:\C me\Cplus\Project1\Collision.cpp(107,16): warning C4244:             T=float
+D:\C me\Cplus\Project1\Collision.cpp(107,16): warning C4244:         ]
+D:\C me\Cplus\Project1\Collision.cpp(109,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C me\Cplus\Project1\Collision.cpp(109,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C me\Cplus\Project1\Collision.cpp(110,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C me\Cplus\Project1\Collision.cpp(110,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C me\Cplus\Project1\Collision.cpp(172,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\C me\Cplus\Project1\Collision.cpp(172,42): warning C4244:         with
+D:\C me\Cplus\Project1\Collision.cpp(172,42): warning C4244:         [
+D:\C me\Cplus\Project1\Collision.cpp(172,42): warning C4244:             T=int
+D:\C me\Cplus\Project1\Collision.cpp(172,42): warning C4244:         ]
+D:\C me\Cplus\Project1\Collision.cpp(173,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\C me\Cplus\Project1\Collision.cpp(173,55): warning C4244:         with
+D:\C me\Cplus\Project1\Collision.cpp(173,55): warning C4244:         [
+D:\C me\Cplus\Project1\Collision.cpp(173,55): warning C4244:             T=int
+D:\C me\Cplus\Project1\Collision.cpp(173,55): warning C4244:         ]
+D:\C me\Cplus\Project1\Collision.cpp(173,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\C me\Cplus\Project1\Collision.cpp(173,42): warning C4244:         with
+D:\C me\Cplus\Project1\Collision.cpp(173,42): warning C4244:         [
+D:\C me\Cplus\Project1\Collision.cpp(173,42): warning C4244:             T=int
+D:\C me\Cplus\Project1\Collision.cpp(173,42): warning C4244:         ]
+  Potion.cpp
+D:\C me\Cplus\Project1\Collision.cpp(174,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\C me\Cplus\Project1\Collision.cpp(174,47): warning C4244:         with
+D:\C me\Cplus\Project1\Collision.cpp(174,47): warning C4244:         [
+D:\C me\Cplus\Project1\Collision.cpp(174,47): warning C4244:             T=int
+D:\C me\Cplus\Project1\Collision.cpp(174,47): warning C4244:         ]
+D:\C me\Cplus\Project1\Potion.cpp(47,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  State.cpp
+D:\C me\Cplus\Project1\Potion.cpp(48,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1078 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project1.vcxproj -> D:\C me\Cplus\x64\Release\Project1.exe

@@ -1,0 +1,44 @@
+﻿  GameState.cpp
+D:\C me\Cplus\Project1\GameState2.h(92,32): warning C4305: 'initializing': truncation from 'double' to 'const float'
+D:\C me\Cplus\Project1\GameState.h(103,32): warning C4305: 'initializing': truncation from 'double' to 'const float'
+D:\C me\Cplus\Project1\GameState.cpp(1224,55): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\C me\Cplus\Project1\GameState.cpp(1224,55): warning C4244:         with
+D:\C me\Cplus\Project1\GameState.cpp(1224,55): warning C4244:         [
+D:\C me\Cplus\Project1\GameState.cpp(1224,55): warning C4244:             T=int
+D:\C me\Cplus\Project1\GameState.cpp(1224,55): warning C4244:         ]
+D:\C me\Cplus\Project1\GameState.cpp(1225,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\C me\Cplus\Project1\GameState.cpp(1225,52): warning C4244:         with
+D:\C me\Cplus\Project1\GameState.cpp(1225,52): warning C4244:         [
+D:\C me\Cplus\Project1\GameState.cpp(1225,52): warning C4244:             T=int
+D:\C me\Cplus\Project1\GameState.cpp(1225,52): warning C4244:         ]
+D:\C me\Cplus\Project1\GameState.cpp(1227,51): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\C me\Cplus\Project1\GameState.cpp(1227,51): warning C4244:         with
+D:\C me\Cplus\Project1\GameState.cpp(1227,51): warning C4244:         [
+D:\C me\Cplus\Project1\GameState.cpp(1227,51): warning C4244:             T=int
+D:\C me\Cplus\Project1\GameState.cpp(1227,51): warning C4244:         ]
+D:\C me\Cplus\Project1\GameState.cpp(1228,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\C me\Cplus\Project1\GameState.cpp(1228,53): warning C4244:         with
+D:\C me\Cplus\Project1\GameState.cpp(1228,53): warning C4244:         [
+D:\C me\Cplus\Project1\GameState.cpp(1228,53): warning C4244:             T=int
+D:\C me\Cplus\Project1\GameState.cpp(1228,53): warning C4244:         ]
+D:\C me\Cplus\Project1\GameState.cpp(1229,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\C me\Cplus\Project1\GameState.cpp(1229,54): warning C4244:         with
+D:\C me\Cplus\Project1\GameState.cpp(1229,54): warning C4244:         [
+D:\C me\Cplus\Project1\GameState.cpp(1229,54): warning C4244:             T=int
+D:\C me\Cplus\Project1\GameState.cpp(1229,54): warning C4244:         ]
+D:\C me\Cplus\Project1\GameState.cpp(1230,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\C me\Cplus\Project1\GameState.cpp(1230,54): warning C4244:         with
+D:\C me\Cplus\Project1\GameState.cpp(1230,54): warning C4244:         [
+D:\C me\Cplus\Project1\GameState.cpp(1230,54): warning C4244:             T=int
+D:\C me\Cplus\Project1\GameState.cpp(1230,54): warning C4244:         ]
+D:\C me\Cplus\Project1\GameState.cpp(1332,23): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+D:\C me\Cplus\Project1\GameState.cpp(1332,23): warning C4244:         with
+D:\C me\Cplus\Project1\GameState.cpp(1332,23): warning C4244:         [
+D:\C me\Cplus\Project1\GameState.cpp(1332,23): warning C4244:             T=unsigned int
+D:\C me\Cplus\Project1\GameState.cpp(1332,23): warning C4244:         ]
+D:\C me\Cplus\Project1\GameState.cpp(1333,24): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+D:\C me\Cplus\Project1\GameState.cpp(1333,24): warning C4244:         with
+D:\C me\Cplus\Project1\GameState.cpp(1333,24): warning C4244:         [
+D:\C me\Cplus\Project1\GameState.cpp(1333,24): warning C4244:             T=unsigned int
+D:\C me\Cplus\Project1\GameState.cpp(1333,24): warning C4244:         ]
+  Project1.vcxproj -> D:\C me\Cplus\x64\Debug\Project1.exe

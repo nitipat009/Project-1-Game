@@ -1,0 +1,11 @@
+ZombieWeed,300
+Nitipat,200
+Best,150
+Mee,240Pooh,160
+Pooh,600
+Pooh,620
+Pooh,60
+Pooh,0
+Pooh,210
+Player,100
+Player,10
